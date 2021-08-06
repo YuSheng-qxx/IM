@@ -13,6 +13,7 @@ void test()
   //cout<<writer.write(value)<<endl; 
   user.Delete("lisi");
 }
+
 int main()
 {
   im::IM im_server;
